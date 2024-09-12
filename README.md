@@ -4,6 +4,8 @@ I'm a web designer passionate about coding!
 
 🌱 I’m currently learning back-end programming
 
+[![trophy](https://github-profile-trophy.vercel.app/?ashyzan=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Ashyzan/Ashyzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
