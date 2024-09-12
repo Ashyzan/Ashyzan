@@ -30,13 +30,6 @@ I'm a web designer passionate about coding!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
 <!--
 **Ashyzan/Ashyzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
